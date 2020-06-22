@@ -1,0 +1,18 @@
+*{
+   font-family: 'Muli', sans-serif;
+}
+
+a{
+    color: blue;
+    text-decoration: none;
+}
+
+.enlaces {
+    font-size: 20px;
+    text-align: center;
+}
+
+.title-staff {
+    text-align: center;
+    background-color: aquamarine;
+}
